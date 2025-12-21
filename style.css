@@ -1,0 +1,29 @@
+
+.top_side{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+    border-color:orange;
+    border-width: 5px;
+    border-style: inset;
+    border-radius: 20px;
+    
+    background-color: lightcoral;
+}
+
+.feature_button{
+   
+   padding-top: 7px;
+
+}
+
+.todo{
+    
+    padding-top: 20px;
+
+}
+
